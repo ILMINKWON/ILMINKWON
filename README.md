@@ -18,7 +18,7 @@ Spring, spring boot 기반 웹 개발을 병행해서 학습하고 있습니다.
 
 ## 🛠 주요 프로젝트
 
-### 🔹 [바라대학교 및 의료 쇼핑몰 CRUD 구현 프로젝트][(https://github.com/ILMINKWON/fitnessfootball](https://docs.google.com/presentation/d/e/2PACX-1vQn-0EFwQGCjamiZzZubydxnNd3ClL_Ndyr-lQTdUGpezBbaM_YGeO_g_TxOkpY3maWI7HLQmabh8-P/pub?start=false&loop=false&delayms=3000&slide=id.g321ea306b8f_1_5)
+### 🔹 [바라대학교 및 의료 쇼핑몰 CRUD 구현 프로젝트](https://github.com/ILMINKWON/fitnessfootball](https://docs.google.com/presentation/d/e/2PACX-1vQn-0EFwQGCjamiZzZubydxnNd3ClL_Ndyr-lQTdUGpezBbaM_YGeO_g_TxOkpY3maWI7HLQmabh8-P/pub?start=false&loop=false&delayms=3000&slide=id.g321ea306b8f_1_5)
 > 학사관리 시스템 내 보건센터 , 간단한 CRUD 경험한 기초 프로젝트
 > 
 ### 🔹 [운동 장비 쇼핑몰 with 카카오페이](https://github.com/ILMINKWON/fitnessfootball)
