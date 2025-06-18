@@ -18,14 +18,17 @@ Spring, spring boot 기반 웹 개발을 병행해서 학습하고 있습니다.
 
 ## 🛠 주요 프로젝트
 
-### 🔹 [트레이너 예약 시스템] [현재 개발 중]
-> 수업 등록, 예약 신청, 출결 기능을 갖춘 웹 시스템 (개인 개발)
-
-### 🔹 [쇼핑몰 with 카카오페이](https://github.com/ILMINKWON/fitnessfootball)
-> 운동 장비 쇼핑몰, 결제 API 연동 경험 포함
+### 🔹 [바라대학교 및 의료 쇼핑몰 CRUD 구현 프로젝트](https://github.com/ILMINKWON/fitnessfootball)
+> 학사관리 시스템 내 보건센터 , 간단한 CRUD 경험한 기초 프로젝트
+> 
+### 🔹 [운동 장비 쇼핑몰 with 카카오페이](https://github.com/ILMINKWON/fitnessfootball)
+> 운동 장비 쇼핑몰, 결제 API 연동 경험 포함 (개인 개발)
 
 ### 🔹 [킬로미터 프로젝트](https://docs.google.com/presentation/d/1Ee8hoGYcI4t7v3y7UBL9AlVBLOY_us_XgUjILuRF038/edit?slide=id.g331c3c71817_17_146#slide=id.g331c3c71817_17_146)
 > 스터디카페 in 스터디룸 예약 및 시간 측정 기능 구현
+
+> ### 🔹 [트레이너 예약 시스템] [현재 개발 중]
+> 수업 등록, 예약 신청, 출결 기능을 갖춘 웹 시스템 (개인 개발)
 
 ---
 
