@@ -11,7 +11,7 @@ Spring, spring boot 기반 웹 개발을 병행해서 학습하고 있습니다.
 - **Frontend**: HTML, CSS, JavaScript, Ajax  
 - **Backend**: Java, Spring Framework, Spring Boot  
 - **Database**: MySQL (Docker + DBeaver)  
-- **Tooling**: Git, Postman, GitHub  
+- **Tooling**: Git, GitHub  
 - **Others**: REST API
 
 ---
