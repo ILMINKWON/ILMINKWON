@@ -1,15 +1,14 @@
 # 👋 안녕하세요, 권일민입니다!
 
 헬스트레이너, 축구선수 출신 예체능 비전공 개발자입니다.  
-트레이너의 경험을 살려 **예약 및 수업관리 시스템**을 기획·개발 중이며,  
-Spring, spring boot 기반 웹 개발을 병행해서 학습하고 있습니다.
+최대한 빠르고 많이 습득하고자 해서 제 꺼로 만들어 저만의 방식으로 표현할 수 있는 수준이 목표입니다.
 
 ---
 
 ## 💡 기술 스택
 
 - **Frontend**: HTML, CSS, JavaScript, Ajax  
-- **Backend**: Java, Spring Framework, Spring Boot  
+- **Backend**: Java, Spring Framework, Spring Boot, PHP
 - **Database**: MySQL (Docker + DBeaver)  
 - **Tooling**: Git, GitHub  
 - **Others**: REST API
@@ -42,9 +41,6 @@ Spring, spring boot 기반 웹 개발을 병행해서 학습하고 있습니다.
 
 ---
 
-## 🧠 현재 배우는 중
-
-- Redis와 WebSocket 실습 예정
 - DB 인덱싱 (느린쿼리 빠르게)
 - 트랜잭션 처리 (병목과 락을 피하는 방법)
 - 서버 최적화 처리 (리소스를 덜 쓰고 더 빠르게 처리)
