@@ -7,9 +7,9 @@
 
 ## 💡 기술 스택
 
-- **Frontend**: HTML, CSS, JavaScript, Ajax  
+- **Frontend**: HTML, CSS, JavaScript, ajax
 - **Backend**: Java, Spring Framework, Spring Boot, PHP
-- **Database**: MySQL (Docker + DBeaver)  
+- **Database**: MySQL (Docker + DBeaver), MariaDB, PHPMyAdmin  
 - **Tooling**: Git, GitHub  
 - **Others**: REST API
 
@@ -41,13 +41,6 @@
 
 ---
 
-- DB 인덱싱 (느린쿼리 빠르게)
-- 트랜잭션 처리 (병목과 락을 피하는 방법)
-- 서버 최적화 처리 (리소스를 덜 쓰고 더 빠르게 처리)
-- Redis (캐시처리)
-
----
-
 ## 📫 연락처
 - ✉️ 이메일: rnjsdlfals@naver.com
-- 📝 Notion 정리: [https://www.notion.so/193722196d4780ddb516c076c1441977]
+- 📝 Obsidian-note 정리
